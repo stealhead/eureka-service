@@ -6,4 +6,5 @@ package eurekademoserver.demo;
  * Time: 下午7:27
  */
 public class DemoController {
+    private String a;
 }

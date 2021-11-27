@@ -7,4 +7,5 @@ package eurekademoserver.demo;
  */
 public class DemoController {
     private String a;
+    private String d;
 }
